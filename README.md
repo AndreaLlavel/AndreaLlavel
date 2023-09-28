@@ -53,7 +53,7 @@
 </p>
 <hr>
 <p>
-<a href="htpps://github.com/anuraghazra/github-redame-stats"></a>
+<a href="htpps://github.com/anuraghazra/github-readme-stats"></a>
 </p>
 
 
