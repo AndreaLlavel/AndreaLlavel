@@ -31,11 +31,11 @@ src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="165" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="205" height="105"/>
 </p>
 ### Demas Conocimientos
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="155" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="185" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="155" height="105"/>
 </p>
 <hr>
