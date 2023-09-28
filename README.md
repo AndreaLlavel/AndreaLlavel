@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Andrea Llavel</h1>
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
-![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)
+![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)
 
 
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
