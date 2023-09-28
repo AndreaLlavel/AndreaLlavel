@@ -29,7 +29,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c-40d6-8c30-5fb599c839a0" alt="" width="105" height="105"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLlavel&layout-compact)](https://github.com/AndreaLLavel/github-readme-stats)
+
 </p>
 ### Comercio Electronico
 <p>
@@ -53,11 +53,15 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="125"/>
 </p>
 <hr>
-<p>
-[![AndreaLlavel github stats](https://github-readme-stats.vercel.app/api?username=AndreaLlavel)](https://github.com/AndreaLlavel/github-readme-stats)
-</p>
-<hr>
 
+<hr>
+ <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+  <br/>
 
 
 
