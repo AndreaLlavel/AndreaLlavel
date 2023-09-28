@@ -12,7 +12,7 @@
  - Entrenar mi mente, para nuevos desafios.
  - Crear nuevos desafios, por cumplir.
 __
-
+<hr>
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
 <hr>
 
