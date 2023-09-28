@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Andrea Llavel</h1>
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
-![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)
-
-
+<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
 
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
