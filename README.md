@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+welcome+to+my+Github+page;I+am+Andrea+Llavel;I+am+a+High+University+student;Web;Programming"></a>
+  <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a+mi+pagina+en+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante+de+la+Tecnicatura+Universitaria+en+Programacion+UTN"></a>
 </p>
 
 <h1 align="center">Hola, mi nombre es Andrea Llavel </h1>
