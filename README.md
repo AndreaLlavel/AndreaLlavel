@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a+mi+pagina+en+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante+de+la+Tecnicatura+Universitaria+en+Programacion+UTN"></a>
+  <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante+de+la;Tecnicatura+Universitaria+en+Programacion;UTN"></a>
 </p>
 
 <h1 align="center">Hola, mi nombre es Andrea Llavel </h1>
