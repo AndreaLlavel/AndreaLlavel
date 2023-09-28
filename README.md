@@ -29,6 +29,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c-40d6-8c30-5fb599c839a0" alt="" width="105" height="105"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLlavel&layout-compact)](https://github.com/AndreaLLavel/github-readme-stats)
 </p>
 ### Comercio Electronico
 <p>
