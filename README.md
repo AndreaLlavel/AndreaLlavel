@@ -32,7 +32,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
 </p>
 <p>
-<img src="https://i.gifer.com/AST.gif"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGN0itJj0TTaB7XNQRB0TQRI2r_WwSNI9JZELTBXSjx8edgg4yHkMhUuDG_WjOdcI6UEg&usqp=CAU">
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://user-images.githubusercontent.com/36349314/95826050-236a4a80-0d08-11eb-8032-a8644704e423.gif" alt="" width="105" height="105"/>
 <br/>
