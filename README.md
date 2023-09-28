@@ -53,7 +53,7 @@
 </p>
 <hr>
 <p>
-<a href="htpps://github.com/anuraghazra/github-readme-stats"></a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?AndreaLlavel/AndreaLlavel)](https://github.com/AndreaLlavel/AndreaLlavel/github-readme-stats)
 </p>
 
 
