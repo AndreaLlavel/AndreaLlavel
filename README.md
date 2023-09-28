@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Andrea Llavel</h1>
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1><img src="https://media.giphy.com/media/fa8149a7-01f0-4f79-9b3f-b7db0fcf45d0/giphy.gif" width="35"></h1>
-<p align="center"><a src="https://readmetypingsvg.herokuapp.comlines=I+am+a+student+of+the+University+Technical+degree+in+Programming;UTN;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a src="https://readmetypingsvg.herokuapp.comlines=I+am+a+student+of+the+University+Technical+degree+in+Programming;UTN;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 
 </p>
