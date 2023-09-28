@@ -1,5 +1,4 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="88">
 
 <p>
 <p align="center">
