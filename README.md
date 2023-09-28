@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante;de+la+Tecnicatura;Universitaria+en+Programacion;UTN" width="102"></a>
 </p>
-
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
 
  ### Actualmente me dedico a:
