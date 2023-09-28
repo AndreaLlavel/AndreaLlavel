@@ -1,5 +1,4 @@
 <h1 align="center" PRESENTACION Y DESCRIPCION DE MI PERFIL>
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="88"></h1>
 
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante;de+la+Tecnicatura;Universitaria+en+Programacion;UTN"></a>
