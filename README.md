@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm Andrea Llavel</h1>
+<h1 align="center">Hola, mi nombre es Andrea Llavel</h1>
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
-
+https://dc722jrlp2zu8.cloudfront.net/media/uploads/2019/07/10/github_deploy.gif
 
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
 
