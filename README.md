@@ -34,10 +34,12 @@
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b90879e8-a1f8-4650-a9d6-3272829c7b98" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/37c6b592-3fc6-4962-8a13-c29590978250" alt="" widht="105" height="105"/>
-<img src="https://i.stack.imgur.com/o0G3V.gif" alt="" width="285" height="155">
+<img src="https://i.stack.imgur.com/o0G3V.gif" alt="" width="385" height="155">
 </p>
+<p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://user-images.githubusercontent.com/36349314/95826050-236a4a80-0d08-11eb-8032-a8644704e423.gif" alt="" width="105" height="105"/>
+</p>
 <br/>
 <h2 align="center">Lenguajes</h2>
 <p align="center">
