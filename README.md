@@ -1,13 +1,11 @@
 
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL </h1>
-<em> # SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</em>
-# ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/896f9255-394e-45f1-8dc6-0c63f7553a1e)
+<h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.  </h2>
+
 
 <em> # Mis Experiencias adquirida en los lenguajes son: </em>
 
-# ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/027addfe-1828-42a4-92e4-1a0f9dd72288)
-# ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817)
-# ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542)
+# ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/027addfe-1828-42a4-92e4-1a0f9dd72288) ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817) ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542)
 # ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b334d2ee-96ab-4536-bf2f-8c8563835324)
 # ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b19dd6af-5604-4140-88d3-ea7df7164efb)
 # ![image](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/1c104d2f-3a9b-4f0a-a4d7-14bbed10bab1)
