@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Andrea Llavel</h1>
-<h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1><img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" width="35"></h1>
+<h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif
 
 
