@@ -53,7 +53,7 @@
 </p>
 <hr>
 <p>
-[AndreaLlavel github stats](https://github-readme-stats.vercel.app/api?AndreaLlavel&hide=["contribs","prs"].)
+[![AndreaLlavel github stats](https://github-readme-stats.vercel.app/api?username=AndreaLlavel)](https://github.com/AndreaLlavel/github-readme-stats)
 </p>
 <hr>
 
