@@ -30,9 +30,10 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c-40d6-8c30-5fb599c839a0" alt="" width="105" height="105"/>
 <br/>
- <p align="center">
- &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/></p>
+<h2 align="center">Lenguajes</h2>
+<p align="center">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/></p>
 <br/>
 
 </p>
@@ -49,7 +50,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
 <br/>
- ##Trabajos
+<h2 align="center">Lenguajes</h2>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 <br/>
