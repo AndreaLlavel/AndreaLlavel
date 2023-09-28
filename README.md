@@ -55,7 +55,6 @@
 <p>
 ![AndreaLlavel github stats](https://github-readme-stats.vercel.app/api?username=AndreaLlavel&hide=[contribs",prs"].)
 </p>
-
 <hr>
 
 
