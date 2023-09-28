@@ -2,6 +2,7 @@
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
+ ![GitHub Org's stars](https://img.shields.iogithub/stars/AndreaLlavel?style=social)
 
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
 
