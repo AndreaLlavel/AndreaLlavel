@@ -53,7 +53,7 @@
 </p>
 <hr>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel/AndreaLlavel&hide=contribs",prs">
+<img src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&hide=contribs",prs">
 </p>
 
 <hr>
