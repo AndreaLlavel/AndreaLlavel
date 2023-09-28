@@ -48,8 +48,8 @@
 </p>
 ### Demas Conocimientos
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="225" height="135"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="135"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="225" height="125"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="125"/>
 </p>
 <hr>
 
