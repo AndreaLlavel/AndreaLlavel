@@ -13,7 +13,7 @@
  - Crear nuevos objetivos, por cumplir.
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
-#### En Programacion:
+### En Programacion:
 
 <p align="left"><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/604d3e5e-2b80-44d2-b852-a4b360c39b5a" alt="Python" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817" alt="Javascript" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542" alt="" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b334d2ee-96ab-4536-bf2f-8c8563835324" alt="" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b19dd6af-5604-4140-88d3-ea7df7164efb" alt="" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/842f7866-29b6-4594-acbe-aecac6bf7d5e" alt="" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/5fde43a8-ab61-4163-8404-6ea0df3e814f" alt="" width="105" height="105"/><img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/1c104d2f-3a9b-4f0a-a4d7-14bbed10bab1" alt="" width="105" height="105"/><img
 src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="105" height="105"/><img
