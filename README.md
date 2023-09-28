@@ -34,7 +34,7 @@
 <p align="center">
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-lans/?username=AndreaLlavel&hide=javascript,css,html,python,java&locale=en&layout=compact&theme=algolia" alt="" height="202px"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaLlavel&hide=javascript,css,html,python,java&locale=en&layout=compact&theme=algolia" alt="" height="202px"/></p>
 <br/>
 </p>
 ### Comercio Electronico
