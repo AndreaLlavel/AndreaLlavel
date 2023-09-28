@@ -1,9 +1,10 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="88">
-<img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
+
 <p>
 <p align="center">
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos;a+mi+pagina;de+GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante;de+la+Tecnicatura;Universitaria+en+Programacion;UTN"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenidos+a;mi+pagina+de;GitHub;Mi+nombre+es+Andrea+Llavel;Soy+estudiante;de+la+Tecnicatura;Universitaria+en+Programacion;UTN"></a>
+<img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
 
