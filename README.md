@@ -43,8 +43,7 @@
 <img src="https://user-images.githubusercontent.com/36349314/95826050-236a4a80-0d08-11eb-8032-a8644704e423.gif" alt="" width="105" height="105"/>
 </p>
 <br/>
-<h2 align="center">Lenguajes</h2>
-<p align="center">
+
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
 <br/>
@@ -61,14 +60,13 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndreaLlavel" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
-<br/>
- 
-</p>
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="385" height="145"/>
 </p>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndreaLlavel" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
+<br/>
+
 ### Demas Conocimientos
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="225" height="125"/>
