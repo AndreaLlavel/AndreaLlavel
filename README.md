@@ -2,8 +2,7 @@
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
- ![imagen](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596192/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)
-
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb1%2F72%2F8a%2Fb1728a49ec07b79af0796beefe503bb9.gif&tbnid=lgz1SA8AAo9vyM&vet=12ahUKEwj5uOCjz8yBAxWdCrkGHb0eB80QMygAegQIARB0..i&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F674977062874412483%2F&docid=8ZYbRTLG_wQmEM&w=1980&h=1080&q=gif%20wallpaper&hl=es-419&client=avast-a-1&ved=2ahUKEwj5uOCjz8yBAxWdCrkGHb0eB80QMygAegQIARB0
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
 
 
