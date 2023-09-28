@@ -34,6 +34,8 @@
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b90879e8-a1f8-4650-a9d6-3272829c7b98" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/37c6b592-3fc6-4962-8a13-c29590978250" alt="" widht="105" height="105"/>
+</p>
+<p>
 <img src="https://i.stack.imgur.com/o0G3V.gif" alt="" width="385" height="155">
 </p>
 <p>
