@@ -10,7 +10,7 @@
 
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
 
- #### Actualmente me dedico a:
+ ### Actualmente me dedico a:
  - Reforzar conocimientos basados en la programacion.
  - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
  - Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.
