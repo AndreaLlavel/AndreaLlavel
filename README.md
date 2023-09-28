@@ -27,7 +27,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/5fde43a8-ab61-4163-8404-6ea0df3e814f" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/1c104d2f-3a9b-4f0a-a4d7-14bbed10bab1" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="135" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/66de88d4-7bf2-4879-91ad-5b5ef9167812" alt="" width="185" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c-40d6-8c30-5fb599c839a0" alt="" width="105" height="105"/>
 </p>
 ### Comercio Electronico
@@ -48,8 +48,8 @@
 </p>
 ### Demas Conocimientos
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="185" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="155" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="225" height="135"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="135"/>
 </p>
 <hr>
 
