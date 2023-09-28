@@ -32,7 +32,7 @@
 </p>
 ### Comercio Electronico
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/a61bfcbb-0adc-40ab-8fe9-8bf244f919d0" alt="" width="155" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/a61bfcbb-0adc-40ab-8fe9-8bf244f919d0" alt="" width="205" height="105"/>
 </p>
 ### Base de Datos
 <p>
