@@ -33,7 +33,8 @@
 <h2 align="center">Lenguajes</h2>
 <p align="center">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-lans/?username=AndreaLlavel&hide=javascript,css,html,python,java" alt="" height="192px"/></p>
 <br/>
 
 </p>
