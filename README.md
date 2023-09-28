@@ -48,10 +48,10 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
-##Trabajos
- <br/>
- <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><7p>
+<br/>
+ ##Trabajos
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 <br/>
  
 </p>
