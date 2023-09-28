@@ -2,7 +2,7 @@
 <h1 align="center"> PRESENTACION Y DESCRIPCION DE MI PERFIL</h1><img src="https://media.giphy.com/media/fa8149a7-01f0-4f79-9b3f-b7db0fcf45d0/giphy.gif" width="35"></h1>
 
 
-</p>
+
  <h2 align="center"> SOY ESTUDIANTE DE LA TECNICATURA UNIVERSITARIA EN PROGRAMACION.UTN.</h2>
 
 <em> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS SON: </em>
