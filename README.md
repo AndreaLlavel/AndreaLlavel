@@ -33,7 +33,7 @@ src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/36d9b8b4-2a9c
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
 </p>
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="285" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="325" height="125"/>
 </p>
 ### Demas Conocimientos
 <p>
