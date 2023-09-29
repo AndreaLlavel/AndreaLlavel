@@ -44,8 +44,6 @@
  
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/842f7866-29b6-4594-acbe-aecac6bf7d5e" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/5fde43a8-ab61-4163-8404-6ea0df3e814f" alt="" width="115" height="65"/>
- 
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/1c104d2f-3a9b-4f0a-a4d7-14bbed10bab1" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
 </p>
 <p>
