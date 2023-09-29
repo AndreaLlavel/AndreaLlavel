@@ -14,14 +14,16 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor-white">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor-white"></p>
 <br/>
-<hr><p>
-#### Actualmente me dedico a:</p><p>
+<hr>
+<p>
+#### Actualmente me dedico a:
 | Reforzar conocimientos basados en la programacion.|
 | Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.|
 | Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.|
 | Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.|
 | Entrenar mi mente, para nuevos desafios.|
-| Crear nuevos objetivos, por cumplir.|</p>
+| Crear nuevos objetivos, por cumplir.|
+</p>
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
@@ -46,8 +48,8 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="115" height="65"/>
 </p>
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b90879e8-a1f8-4650-a9d6-3272829c7b98" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/37c6b592-3fc6-4962-8a13-c29590978250" alt="" widht="105" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b90879e8-a1f8-4650-a9d6-3272829c7b98" alt="" width="125" height="95"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/37c6b592-3fc6-4962-8a13-c29590978250" alt="" widht="125" height="95"/>
 </p>
 <p>
 <img src="https://i.stack.imgur.com/o0G3V.gif" alt="" width="385" height="155">
