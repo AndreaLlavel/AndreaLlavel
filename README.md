@@ -1,8 +1,7 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 <p>
 <p align="left">
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre+es+Andrea+Llavel;soy+estudiante+de+la"></a></p>
-<p>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre+es+Andrea+Llavel;soy+estudiante+de+la"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Tecnicatura+Universitaria;en+Programacion+.+UTN"></a></p>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
