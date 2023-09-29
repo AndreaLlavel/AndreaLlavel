@@ -6,7 +6,7 @@
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
-<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
+<p align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor-white"></p>
  ### Actualmente me dedico a:
  - Reforzar conocimientos basados en la programacion.
  - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
