@@ -26,9 +26,9 @@
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor-white" alt="" width="105" height="105"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817" alt="Javascript" width="105" height="105"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor-white" alt="" width="65" height="65"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black" alt="" width="65" height="65"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b334d2ee-96ab-4536-bf2f-8c8563835324" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b19dd6af-5604-4140-88d3-ea7df7164efb" alt="" width="105" height="105"/>
