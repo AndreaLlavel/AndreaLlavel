@@ -26,12 +26,12 @@
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor-white" alt="" width="105" height="65"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black" alt="" width="105" height="65"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor-white" alt="" width="105" height="65"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expres.js&logoColor-black" alt="" width="105" height="65"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor-white" alt="" width="105" height="65"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor-white" alt="" width="105" height="65"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor-white" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor-white" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expres.js&logoColor-black" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor-white" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor-white" alt="" width="105" height="65"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor-white" alt="" width="105" height="65"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor-white" alt="" width="105" height="65"/>
