@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor-white">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor-white"></p>
+<br/>
 <hr>
  ### Actualmente me dedico a:
  - Reforzar conocimientos basados en la programacion.
@@ -18,6 +19,7 @@
  - Entrenar mi mente, para nuevos desafios.
  - Crear nuevos objetivos, por cumplir.
 <hr>
+<br/>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
 
