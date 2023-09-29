@@ -44,7 +44,7 @@
 </p>
 <br/>
 
-&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
 <br/>
 </p>
