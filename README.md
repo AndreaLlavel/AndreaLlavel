@@ -96,7 +96,7 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="125"/>
 </p>
 <hr>
-
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Gracias;por+su+visita"></a>
 <hr>
 
 
