@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor-white"></p>
 <br/>
 <hr><p>
-#### Actualmente me dedico a:
+#### Actualmente me dedico a:</p><p>
 - Reforzar conocimientos basados en la programacion.
 - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
 - Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.
@@ -26,7 +26,9 @@
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor-white"></p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/604d3e5e-2b80-44d2-b852-a4b360c39b5a" alt="Python" width="105" height="105"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor-black"></p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817" alt="Javascript" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b334d2ee-96ab-4536-bf2f-8c8563835324" alt="" width="105" height="105"/>
