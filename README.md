@@ -10,19 +10,17 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor-white"></p>
 <br/>
+<hr><p>
+### Actualmente me dedico a:
+- Reforzar conocimientos basados en la programacion.
+- Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
+- Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.
+- Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.
+- Entrenar mi mente, para nuevos desafios.
+- Crear nuevos objetivos, por cumplir.</p>
 <hr>
- ### Actualmente me dedico a:
- - Reforzar conocimientos basados en la programacion.
- - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
- - Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.
- - Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.
- - Entrenar mi mente, para nuevos desafios.
- - Crear nuevos objetivos, por cumplir.
-<hr>
-<br/>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
 ### En Programacion:
-
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/604d3e5e-2b80-44d2-b852-a4b360c39b5a" alt="Python" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed1665be-d91e-44fd-acf6-d3b42c647817" alt="Javascript" width="105" height="105"/>
