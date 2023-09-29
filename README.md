@@ -17,12 +17,12 @@
 <hr>
 <p>
 #### Actualmente me dedico a:
-| Reforzar conocimientos basados en la programacion.|
-| Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.|
-| Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.|
-| Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.|
-| Entrenar mi mente, para nuevos desafios.|
-| Crear nuevos objetivos, por cumplir.|
+|* Reforzar conocimientos basados en la programacion.|
+|* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.|
+|* Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.|
+|* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.|
+|* Entrenar mi mente, para nuevos desafios.|
+|* Crear nuevos objetivos, por cumplir.|
 </p>
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
