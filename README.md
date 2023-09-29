@@ -69,11 +69,12 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/a61bfcbb-0adc-40ab-8fe9-8bf244f919d0" alt="" width="205" height="105"/>
 </p>
 ### Base de Datos
+<p>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor-white" alt="" width="115" height="65"/>
-<img src="https://img.shields.io/badge/MongoDB?style=for-the-badge&logo=mongodb&logoColor-white" alt="" width="115" height="65"/>
+<img src="https://img.shields.io/badge/MongoDB4EA94B?style=for-the-badge&logo=mongodb&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor-white" alt="" width="115" height="65"/>
-<p>
+
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/dbb108e6-acd4-4446-be11-5074f270f464" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4a294a6a-bd46-4214-900d-26a82569ea72" alt="" width="105" height="105"/>                                          <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b646fdd0-4f72-432a-ae71-d8c9310a418a" alt="" width="105" height="105"/>                                        </p>                                                                                                                                                                                      ### Metodologia de Trabajo
 <p>
