@@ -42,9 +42,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor-black" alt="" width="115" height="65"/>
  
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/842f7866-29b6-4594-acbe-aecac6bf7d5e" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/5fde43a8-ab61-4163-8404-6ea0df3e814f" alt="" width="115" height="65"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="105" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e380cec8-779f-4327-8436-16f470be537f" alt="" width="115" height="65"/>
 </p>
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b90879e8-a1f8-4650-a9d6-3272829c7b98" alt="" width="105" height="105"/>
@@ -72,10 +71,10 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor-white" alt="" width="115" height="65"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4a294a6a-bd46-4214-900d-26a82569ea72" alt="" width="105" height="105"/>                                          </p>                                                                                                                                                                                     ### Metodologia de Trabajo
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4a294a6a-bd46-4214-900d-26a82569ea72" alt="" width="115" height="65"/>                                          </p>                                                                                                                                                                                     ### Metodologia de Trabajo
 <p>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="105" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="115" height="105"/>
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="115" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/e78c94b3-88f6-4257-a6a5-c60d78c9e520" alt="" width="105" height="105"/>
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="385" height="145"/>
