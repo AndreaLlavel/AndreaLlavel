@@ -36,14 +36,6 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor-white" alt="" width="105" height="65"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor-white" alt="" width="105" height="65"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor-white" alt="" width="105" height="65"/>
-
-
-
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/3c45bfb6-357b-4d08-a2a4-b0bca3df3542" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b334d2ee-96ab-4536-bf2f-8c8563835324" alt="" width="105" height="105"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b19dd6af-5604-4140-88d3-ea7df7164efb" alt="" width="105" height="105"/>
-</p>
-<p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/842f7866-29b6-4594-acbe-aecac6bf7d5e" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/5fde43a8-ab61-4163-8404-6ea0df3e814f" alt="" width="105" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/1c104d2f-3a9b-4f0a-a4d7-14bbed10bab1" alt="" width="105" height="105"/>
