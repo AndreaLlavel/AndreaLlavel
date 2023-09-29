@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor-white"></p>
 </p>
+<hr>
  ### Actualmente me dedico a:
  - Reforzar conocimientos basados en la programacion.
  - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
