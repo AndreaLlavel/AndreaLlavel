@@ -5,9 +5,11 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
-<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green"></p>
-<p align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor-white"></p>
-<p align="center"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white"></p>
+<p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor-white">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor-white"></p>
+</p>
  ### Actualmente me dedico a:
  - Reforzar conocimientos basados en la programacion.
  - Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
