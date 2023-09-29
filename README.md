@@ -16,7 +16,7 @@
 <br/>
 <hr>
 <p>
-#### Actualmente me dedico a:</p>
+### Actualmente me dedico a:</p>
 <div>
 * Reforzar conocimientos basados en la programacion.
 * Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
