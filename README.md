@@ -98,7 +98,7 @@
 </p>
 <hr>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Gracias+por+su+visita"></a>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Gracias+por+su+visita">
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=su+visita"></a>
 <hr>
 
 
