@@ -67,6 +67,7 @@
 ### Comercio Electronico
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/a61bfcbb-0adc-40ab-8fe9-8bf244f919d0" alt="" width="205" height="105"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnyMNajKiupL_sJFOqqxTO7J4w7yua-JSAQ&usqp=CAU">
 </p>
 ### Base de Datos
 <p>
