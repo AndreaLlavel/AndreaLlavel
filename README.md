@@ -60,14 +60,14 @@
 <img src="https://user-images.githubusercontent.com/36349314/95826050-236a4a80-0d08-11eb-8032-a8644704e423.gif" alt="" width="105" height="105"/>
 </p>
 <br/>
+<p align="center">
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Lenguajes"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
-<br/>
 </p>
 ### Comercio Electronico
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/a61bfcbb-0adc-40ab-8fe9-8bf244f919d0" alt="" width="205" height="105"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnyMNajKiupL_sJFOqqxTO7J4w7yua-JSAQ&usqp=CAU">
+<img src="https://wesvyg.com/wp-content/uploads/2020/05/marketing-transparent-e-commerce.gif">
 </p>
 ### Base de Datos
 <p>
