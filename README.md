@@ -64,11 +64,11 @@
 <br/>
 <p align="center"></p>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Lenguajes"></a>
- <br>
+<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
- </p>
- <p>
- <br>
+</p>
+<p>
+<hr>
 </p>
 ### Comercio Electronico
 <p>
@@ -89,11 +89,11 @@
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/45777276-3c3b-4992-92a7-635ce79b2cb1" alt="" width="385" height="145"/>
 </p>
-<br/>
+<hr>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Estadisticas"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Estrellas+%2C+Tareas"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Commits+%2C+Contribuciones"></a>
-<p><br></p>
+<p><hr></p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndreaLlavel" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 <br/>
