@@ -63,6 +63,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Lenguajes"></a>
+ <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
 </p>
 ### Comercio Electronico
@@ -76,7 +77,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor-white" alt="" width="115" height="65"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor-white" alt="" width="115" height="65"/>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4a294a6a-bd46-4214-900d-26a82569ea72" alt="" width="115" height="65"/>                                          </p>                                                                                                                                                                                     ### Metodologia de Trabajo
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4a294a6a-bd46-4214-900d-26a82569ea72" alt="" width="115" height="65"/>                          </p>                                                                                                                                                                       ### Metodologia de Trabajo
 <p>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ec8a9a09-23cf-40b4-9c8e-ad0d4ba3c535" alt="" width="115" height="105"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/05aeac21-20a2-4d7b-b849-f497f861f4d7" alt="" width="115" height="105"/>
@@ -88,6 +89,7 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Estadisticas"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Estrellas+%2C+Tareas"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Commits+%2C+Contribuciones"></a>
+<br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndreaLlavel" src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 <br/>
