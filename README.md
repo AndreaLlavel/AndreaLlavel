@@ -106,7 +106,8 @@
 
 <p>
 
-<a href="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/d300c405-777e-4227-8716-6adb4c3294ff"/></a></p>
+<a href="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/d300c405-777e-4227-8716-6adb4c3294ff" alt=""></a></p>
+
 
 <hr>
  
