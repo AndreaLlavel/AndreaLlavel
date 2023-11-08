@@ -106,8 +106,7 @@
 
 <p>
 
-<img href="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/d300c405-777e-4227-8716-6adb4c3294ff" alt=""/>
-<img href="https://1.bp.blogspot.com/-t9knL1zbRE8/UIR8cchR7BI/AAAAAAAACIM/XJrrhBDpN8I/s1600/animacion.gif"/></p>
+<img href="https://1.bp.blogspot.com/-t9knL1zbRE8/UIR8cchR7BI/AAAAAAAACIM/XJrrhBDpN8I/s1600/animacion.gif"></p>
 
 <hr>
  
