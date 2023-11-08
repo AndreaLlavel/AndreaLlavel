@@ -66,6 +66,9 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Lenguajes"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
 <hr>
+<p align="center">
+<a href="https://github.com/AndreaLlavel/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=AndreaLlavel&repo=github-readme-stats>
 </p>
 ### Comercio Electronico
 <p>
