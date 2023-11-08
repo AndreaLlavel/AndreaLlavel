@@ -67,7 +67,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaLlavel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px"/>
  </p>
  <p>
- <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AndreaLlavel&hide=contribs,prs"/>
 </p>
 ### Comercio Electronico
 <p>
