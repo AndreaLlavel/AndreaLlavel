@@ -104,9 +104,8 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=su+Visita"></a>
 <hr>
 
-<a url="https://1.bp.blogspot.com/-t9knL1zbRE8/UIR8cchR7BI/AAAAAAAACIM/XJrrhBDpN8I/s1600/animacion.gif"/>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=👋+✋+👋+✋+👋+✋"></a>
 
-<img href="https://1.bp.blogspot.com/-t9knL1zbRE8/UIR8cchR7BI/AAAAAAAACIM/XJrrhBDpN8I/s1600/animacion.gif"></a>
 
 <hr>
  
