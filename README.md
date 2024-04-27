@@ -106,8 +106,7 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
-[![Alt text]
-(https://img.youtube.com/vi/@andreallavel2902/0.jpg)](https://www.youtube.com/watch?v=@andreallavel2902)
+<img src="https://img.youtube.com/vi/@andreallavel2902/0.jpg)](https://www.youtube.com/watch?v=@andreallavel2902"/>
 <hr>
  
 
