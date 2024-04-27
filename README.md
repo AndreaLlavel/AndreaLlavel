@@ -13,8 +13,10 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor-white">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor-white"></p>
 <br/>
+<hr>
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor-white">
-<a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">Canal de Andrea</a>
+<a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">
+ # Canal de Andrea</a>
 <hr>
 <a href="https://youtu.be/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
 
