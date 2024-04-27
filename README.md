@@ -107,7 +107,7 @@
 
 <hr>
 <a href="www.youtube.com/watch?v=@andreallavel2902">
-<img src="https://img.youtube.com/vi/@andreallavel2902/O.jpg/">
+<img src="https://img.youtube.com/vi/@andreallavel2902/0.jpg/">
 <hr>
  
 
