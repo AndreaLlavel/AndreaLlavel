@@ -18,7 +18,7 @@
 <a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">
  <h2>Canal de Andrea 👍</h2></a>
 <hr>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/8211bb84-dafb-45ec-a58f-f9c9ddf5e384" width="45" height="50">
+<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/8211bb84-dafb-45ec-a58f-f9c9ddf5e384" width="65" height="50">
 
 <a href="https://youtu.be/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
 
@@ -114,7 +114,6 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
-<a href="https://youtu.be/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
 
 
 
