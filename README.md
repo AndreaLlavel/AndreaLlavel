@@ -110,5 +110,6 @@
 
 <hr>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=80F71A&background=FFFA2D00&center=FALSO&vCenter=verdadero&multiline=true&repeat=verdadero&random=FALSO&width=489&height=70&lines=+++%F0%9F%91%8B%F0%9F%A4%9A+GRACIAS+POR+;SU+VISITA+++!!!" alt="Typing SVG" /></a>
 
 
