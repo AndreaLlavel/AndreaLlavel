@@ -18,11 +18,6 @@
 <a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">
  <h2>Canal de Andrea 👍</h2></a>
 <hr>
-<img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/8211bb84-dafb-45ec-a58f-f9c9ddf5e384" width="65" height="50">
-
-<a href="https://youtu.be/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
-
-<hr>
 <p>
  <h3>Actualmente me dedico a:</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F72EF6&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Reforzar+conocimientos;Trabajar+en+equipo" alt="Typing SVG" /></a>
