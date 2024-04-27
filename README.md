@@ -17,9 +17,9 @@
 <hr>
 <p>
 ### Actualmente me dedico a:</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Reforzar+conocimientos;A+trabajar+en+equipo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F72EF6&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Reforzar+conocimientos;A+trabajar+en+equipo" alt="Typing SVG" /></a>
 <div>
-<p>* </p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Me+dedico+a+%3A;Reforzar+conocimientos)](https://git.io/typing-svg)
+
 <p>* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.</p>
 <p>* Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.</p>
 <p>* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.</p>
