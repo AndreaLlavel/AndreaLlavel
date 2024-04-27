@@ -24,9 +24,8 @@
 <p>* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.</p>
 <p>* Entrenar mi mente, para nuevos desafios.</p>
 <p>* Crear nuevos objetivos, por cumplir.</p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F736DC&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+basados+en+programaci%C3%B3n;Curso+diferentes+cursos%2C+basados+en+distintos+lenguajes.;Visito+sitios+y+tutoriales+con+el+fin+de+conocer+experiencias+vividas+por+otros+programadores;Creo+en+el+trabajo+en+equipo%2C+y+realizo+proyectos+en+grupo;Continuamente+creo+nuevos+objetivos+por+cumplir" alt="Typing SVG" /></a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F736DC&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+basados+en+programaci%C3%B3n;Curso+diferentes+cursos%2C+basados+en+distintos+lenguajes.;Visito+sitios+y+tutoriales+con+el+fin+de+conocer+experiencias+vividas+por+otros+programadores;Creo+en+el+trabajo+en+equipo%2C+y+realizo+proyectos+en+grupo;Continuamente+creo+nuevos+objetivos+por+cumplir" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F736DC&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+basados;en+programacion%C3%B3n;Curso+diferentes+cursos%2C+basados+en+distintos+lenguajes.;Visito+sitios+y+tutoriales+con+el+fin+de+conocer+experiencias+vividas+por+otros+programadores;Creo+en+el+trabajo+en+equipo%2C+y+realizo+proyectos+en+grupo;Continuamente+creo+nuevos+objetivos+por+cumplir" alt="Typing SVG" /></a>
 </div>
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
