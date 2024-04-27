@@ -102,11 +102,11 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="125"/>
 </p>
 <hr>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=225&height=185&vCenter=true&lines=Gracias+por"></a>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&widht=225&height=185&vCenter=true&lines=su+Visita"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=125&height=105&vCenter=true&lines=Gracias+por"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&widht=125&height=105&vCenter=true&lines=su+Visita"></a>
 
 
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&widht=350&height=350&center=true&vCenter=true&lines=✋+👋+✋"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
 
