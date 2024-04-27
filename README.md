@@ -107,7 +107,6 @@
 
 <hr>
 <a href="https://youtu.be.com/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
-<img src="https://www.youtube.com/embed/q5ooTwFMN8c?si=2MLajvNxjd7NC7dm" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-<hr>
+
 
 
