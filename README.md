@@ -107,7 +107,7 @@
 
 <hr>
 [![Alt text]
-(https://img.youtube.com/vi/@andreallael2902/0.jpg)](https://www.youtube.com/watch?v=@andreallavel2902)
+(https://img.youtube.com/vi/@andreallavel2902/0.jpg)](https://www.youtube.com/watch?v=@andreallavel2902)
 <hr>
  
 
