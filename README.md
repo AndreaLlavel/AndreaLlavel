@@ -21,16 +21,7 @@
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=30F713&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Investigar+lenguajes;Visitar+sitios+y+tutoriales" alt="Typing SVG" /></a>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F79727&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=*+Entrenar+mi+mente+para+nuevos+desafios;*+Crear+nuevos+objetivos%2C+por+cumplir" alt="Typing SVG" /></a>
-
-<p>* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.</p>
-<p>* Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.</p>
-<p>* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.</p>
-<p>* Entrenar mi mente, para nuevos desafios.</p>
-<p>* Crear nuevos objetivos, por cumplir.</p>
-
-<a href="https://github.com/AndreaLlavel">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F79727&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Enfocar+mi+mente+en+nuevos+desafios;Crear+nuevos+objetivos%2C+por+cumplir" alt="Typing SVG" /></a>
 
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
