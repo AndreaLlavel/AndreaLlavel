@@ -26,7 +26,7 @@
 <p>* Crear nuevos objetivos, por cumplir.</p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos">
 
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
