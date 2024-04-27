@@ -106,6 +106,6 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q5ooTwFMN8c?si=2MLajvNxjd7NC7dm" controls="0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5ooTwFMN8c?si=2MLajvNxjd7NC7dm" frameborder="0" allowfullscreen></iframe>
  
 
