@@ -24,7 +24,7 @@
 <br/>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1100&color=30F713&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=100&lines=Investigar+lenguajes;Visitar+sitios+y+tutoriales"></a>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F79727&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Enfocar+mi+mente+en+nuevos+desafios;Crear+nuevos+objetivos%2C+por+cumplir" alt="Typing SVG" /></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=F79727&size=25&center=true&vCenter=true&multiline=true&widht=458&height=100&lines=Enfocar+mi;mente+en+nuevos+desafios;Crear+objetivos+por+cumplir"></a>
 
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
