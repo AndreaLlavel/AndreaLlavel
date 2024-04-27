@@ -13,9 +13,9 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor-white">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor-white"></p>
 <br/>
-<hr>
+<hr><p>
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor-white">
-<a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr"><h2>Canal de Andrea</h2></a>
+<a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr"><h2>Canal de Andrea</h2></a></p>
 <br/>
 <hr>
 <p>
