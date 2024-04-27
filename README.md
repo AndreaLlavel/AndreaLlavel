@@ -17,6 +17,7 @@
 <hr>
 <p>
 ### Actualmente me dedico a:</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Reforzar+conocimientos;A+trabajar+en+equipo)](https://git.io/typing-svg)
 <div>
 <p>* </p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Me+dedico+a+%3A;Reforzar+conocimientos)](https://git.io/typing-svg)
 <p>* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.</p>
