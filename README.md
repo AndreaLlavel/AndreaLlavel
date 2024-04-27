@@ -103,9 +103,7 @@
 </p>
 <hr>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&width=225&height=125&vCenter=true&lines=Gracias+por"></a>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&widht=125&height=105&vCenter=true&lines=su+Visita"></a>
-
-
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=125&height=105&vCenter=true&lines=SU+Visita+++!!!"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
