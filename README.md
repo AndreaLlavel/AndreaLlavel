@@ -106,7 +106,7 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
-<a href="https://www.youtube.com/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm&amp;ab_channel=andreallavel2902">Video de Html</a>
+<a href="https://www.youtube.com/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm&amp;ab_channel=@andreallavel2902">Video de Html</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q5ooTwFMN8c?si=2MLajvNxjd7NC7dm" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
