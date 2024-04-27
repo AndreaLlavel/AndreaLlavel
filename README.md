@@ -106,9 +106,6 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
-<a href="www.youtube.com/watch?v=@andreallavel2902">
-<img src="https://img.youtube.com/vi/@andreallavel2902/0.jpg/">
-<hr>
-<a href="https://youtu.be/q5ooTwFMN8c?si=2MLajd7NC7dm"/>
+<a href="www.youtube.com/watch?v=q5ooTwFMN8c?si=2MLajd7NC7dm">
  
 
