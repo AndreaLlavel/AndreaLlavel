@@ -18,7 +18,7 @@
 <a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr"><h2>Canal de Andrea 👍</h2></a>
 <hr>
 <p>
- <h3>Actualmente me dedico a:</h3>
+<h3>Actualmente me dedico a:</h3>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=F72Ef6&size=25&center=true&vCenter=true&multiline=true&widht=458&height=100&lines=Reforzar+conocimientos;Trabajar+en+equipo"></a>
 <br/>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1100&color=30F713&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=100&lines=Investigar+lenguajes;Visitar+sitios+y+tutoriales"></a>
