@@ -18,7 +18,7 @@
 <p>
 ### Actualmente me dedico a:</p>
 <div>
-<p>* Reforzar conocimientos basados en la programacion.</p>
+<p>* </p>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Me+dedico+a+%3A;Reforzar+conocimientos)](https://git.io/typing-svg)
 <p>* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.</p>
 <p>* Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.</p>
 <p>* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores.</p>
