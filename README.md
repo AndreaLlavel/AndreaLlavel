@@ -16,7 +16,7 @@
 <hr>
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor-white">
 <a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">
- <h3>Canal de Andrea</h3></a>
+ <h2>Canal de Andrea 👍</h2></a>
 <hr>
 <a href="https://youtu.be/watch?v=q5ooTwFMN8c?si=2MLajvNxjd7NC7dm">Video de Html</a>
 
