@@ -20,7 +20,7 @@
 <hr>
 <p>
  <h3>Actualmente me dedico a:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F72EF6&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Reforzar+conocimientos;Trabajar+en+equipo" alt="Typing SVG" /></a>
+ <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1100&color=F72EF6&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Reforzar+conocimientos;Trabajar+en+equipo" alt="Typing SVG" /></a>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=30F713&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Investigar+lenguajes;Visitar+sitios+y+tutoriales" alt="Typing SVG" /></a>
 <br/>
