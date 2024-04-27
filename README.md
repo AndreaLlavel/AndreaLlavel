@@ -25,12 +25,8 @@
 <p>* Entrenar mi mente, para nuevos desafios.</p>
 <p>* Crear nuevos objetivos, por cumplir.</p>
 <div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos)](https://git.io/typing-svg)</div>
-<div>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=435&lines=programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos)](https://git.io/typing-svg)
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos(https://git.io/typingsvg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=F72EF6&background=FF9DEE00&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=Actualmente+me+dedico+a%3A;Reforzar+conocimientos+en+;programaci%C3%B3n+y+afines;Visito+sitios+y+tutoriales+;Creo+en+el+trabajo+en+equipo;Realizo+proyectos+en+grupo;Me+proyecto+en+nuevos+objetivos"/>
 </div>
 <hr>
 <h3> MIS EXPERIENCIAS ADQUIRIDAS EN LENGUAJES Y DEMAS CONOCIMIENTOS </h3>
