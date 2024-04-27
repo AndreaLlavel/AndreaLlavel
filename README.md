@@ -20,6 +20,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F72EF6&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Reforzar+conocimientos;A+trabajar+en+equipo" alt="Typing SVG" /></a>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=30F713&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=Investigar+lenguajes;Visitar+sitios+y+tutoriales" alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=F79727&background=F7ECFF00&center=&vCenter=&multiline=true&repeat=verdadero&random=FALSO&width=485&height=60&lines=*+Entrenar+mi+mente+para+nuevos+desafios;*+Crear+nuevos+objetivos%2C+por+cumplir" alt="Typing SVG" /></a>
 
 <p>* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.</p>
 <p>* Afianzar e Investigar distintos lenguajes de programacion, con el fin de resolver los problemas que surgen a la hora de programar.</p>
