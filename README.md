@@ -15,7 +15,7 @@
 <br/>
 <hr>
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor-white">
-<a href="https://youtu.be/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">Canal de Andrea</a>
+<a href="https://youtube.com/@andreallavel2902?si=bMZ_xkDqj1rX_zNr">Canal de Andrea 👍</a>
 <br/>
 <hr>
 <p>
