@@ -1,4 +1,3 @@
-![GRACIAS-POR-SU-VISITA-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/faf610dc-6c3c-475d-ae04-b7fa75362d2c)
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DESCRIPCION"></a>
 
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DE+MI+PERFIL.+SOY"></a>
