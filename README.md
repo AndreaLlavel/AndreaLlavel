@@ -10,7 +10,7 @@
 
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=115&height=105&vCenter=true&lines=EN+PROGRAMACION;TECNICA+UNIVERSITARIA"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=115&height=105&vCenter=true&lines=PROGRAMACION.+UTN;TECNICA+UNIVERSITARIA+EN"></a>
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor-white">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
