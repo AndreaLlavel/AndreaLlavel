@@ -7,10 +7,10 @@
 
 ![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
 
-
-<p>
 <p align="left">
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre+es+Andrea+Llavel;Tecnicatura+Universitaria"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=+TECNICA +UNIVERSITARIA+EN+PROGRAMACION"></a></p>
+
+
 
  
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
