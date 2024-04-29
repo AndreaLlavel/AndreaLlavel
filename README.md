@@ -1,4 +1,8 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
+
+![Hola-soy-Andrea-LLavel-tec-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/0c65ae26-c6d7-46b6-bcfb-0b4e09dfe7fc)
+
+
 <p>
 <p align="left">
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre+es+Andrea+Llavel;Tecnicatura+Universitaria"></a>
