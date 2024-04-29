@@ -1,5 +1,7 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 
+![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
+
 
 <p>
 <p align="left">
