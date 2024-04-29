@@ -1,5 +1,5 @@
 
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+PRESENTACION+Y+DESCRIPCION"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DESCRIPCION"></a>
 
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=115&height=105&vCenter=true&lines=+DE+MI+PERFIL.+SOY"></a>
 
