@@ -5,6 +5,9 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
+
+![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/7fb01ee8-3de4-404e-b067-aed685e844d6)
+
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor-white">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor-white">
