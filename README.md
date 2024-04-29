@@ -5,9 +5,7 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 
-![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed2905ef-e7ce-49b1-aa2d-4d48428d32a6)
-
-![-pensamiento-logico-comuni-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/97ac6f28-5b0a-4d3e-a4e2-c3bdb0574b6b)
+![-pensamiento-logico-comuni-29-4-2024 (1)](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b342c767-16f3-48f4-aa20-20dc4fae8f35)
 
 
 </p>
