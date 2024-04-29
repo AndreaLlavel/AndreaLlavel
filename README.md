@@ -1,4 +1,4 @@
-<hr>
+
 ![PRSENTACION-Y-DESCRIPCION-DE-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/f192f7c3-f4ac-4549-9551-0c9061e50d5e)
 
 
