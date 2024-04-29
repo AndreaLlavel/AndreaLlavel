@@ -1,6 +1,5 @@
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DESCRIPCION"></a>
-
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DE+MI+PERFIL.+SOY"></a>
+<hr>
+![PRSENTACION-Y-DESCRIPCION-DE-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/f192f7c3-f4ac-4549-9551-0c9061e50d5e)
 
 
 ![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
