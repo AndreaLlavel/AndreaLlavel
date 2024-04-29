@@ -7,13 +7,14 @@
 
 ![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
 
-<p align="left">
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=+TECNICA +UNIVERSITARIA+EN+PROGRAMACION"></a></p>
+
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=+TECNICA +UNIVERSITARIA+EN+PROGRAMACION"></a>
 
 
 
  
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
+<p>pi</p>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 
 ![-pensamiento-logico-comuni-29-4-2024 (1)](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/b342c767-16f3-48f4-aa20-20dc4fae8f35)
