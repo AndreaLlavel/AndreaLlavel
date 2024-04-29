@@ -7,8 +7,7 @@
 
 ![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed2905ef-e7ce-49b1-aa2d-4d48428d32a6)
 
- ![-pensamiento-logico-comunicar-29-4-2024 (1)](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/96f50498-8404-449e-ba41-f2e35e17e154)
-
+![-pensamiento-logico-comuni-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/97ac6f28-5b0a-4d3e-a4e2-c3bdb0574b6b)
 
 
 </p>
