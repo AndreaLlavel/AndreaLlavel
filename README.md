@@ -1,6 +1,7 @@
 <h1 align="center">PRESENTACION Y DESCRIPCION DE MI PERFIL</h1>
 
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=PRESENTACION+Y+DESCRIPCION+DE;MI"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=+PRESENTACION+Y+DESCRIPCION"></a>
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&lines=DE+MI"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&lines=PERFIL.+SOY"></a>
 
 ![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
