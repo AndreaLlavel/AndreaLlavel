@@ -5,7 +5,8 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 
-![full-stack-python-comision-24-29-4-2024 (1)](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/883698dd-8e14-4204-a449-43ebb546b441)
+![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/ed2905ef-e7ce-49b1-aa2d-4d48428d32a6)
+
  
 
 
