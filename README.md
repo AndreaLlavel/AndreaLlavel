@@ -1,4 +1,4 @@
-
+![GRACIAS-POR-SU-VISITA-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/faf610dc-6c3c-475d-ae04-b7fa75362d2c)
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DESCRIPCION"></a>
 
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=32&center=true&widht=105&height=105&vCenter=true&lines=+DE+MI+PERFIL.+SOY"></a>
@@ -106,9 +106,10 @@
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/312b0828-43f5-45dc-8ab7-ba8b0ee0797e" alt="" width="225" height="125"/>
 <img src="https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/11b9f695-c09c-4198-a52c-9b0274e7c533" alt="" width="185" height="125"/>
 </p>
-<hr>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&width=225&height=125&vCenter=true&lines=GRACIAS+POR"></a>
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=80F71A&size=28&center=true&widht=115&height=105&vCenter=true&lines=SU+VISITA+++!!!"></a>
+
+![GRACIAS-POR-SU-VISITA-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/9be9eee1-3dd5-4c9b-95a2-7a29d5b0f60b)
+
+
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&center=true&vCenter=true&lines=✋+👋+✋"></a>
 
 <hr>
