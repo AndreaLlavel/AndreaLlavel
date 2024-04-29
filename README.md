@@ -4,9 +4,12 @@
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre+es+Andrea+Llavel;Tecnicatura+Universitaria"></a>
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=soy+estudiante+de+la;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
+
+ ![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/4b034f64-7f84-48c9-b97a-8f9e03824097)
+
 </p>
 
-![-pensamiento-logico-comunicar-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/7fb01ee8-3de4-404e-b067-aed685e844d6)
+
 
 <p align="left"><img src="https://img.shields.io/badge/STATUS-EN%DESARROLLO-green">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor-white">
