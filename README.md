@@ -1,7 +1,6 @@
 
 ![PRESENTACION-Y-DESCRIPCION-DE-30-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/081a8341-4798-4ee8-a7c5-b71188d076af)
 
-
 ![ANDREA-LLAVEL-29-4-2024](https://github.com/AndreaLlavel/AndreaLlavel/assets/112596102/51f03d35-fb77-4a74-8023-d0633318dbd3)
 
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
